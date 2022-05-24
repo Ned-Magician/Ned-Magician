@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ned-Magician
 - 👀 I’m interested in front-end
-- 🌱 I’ve learn CSS, HTML, SASS, GULP, Qjuery( a bit), Bootstrap, photoshop...
-- 💞️ I’m looking to collaborate on with organisation or any team which need a front-end
-- 📫 How to reach me with my email <Nedjat2021@gmail.com> or with telegram @sandsunlight
+- 🌱 I’ve learned CSS, HTML, SASS, GULP, Qjuery (basic), Bootstrap, photoshop...
+- 💞️ I’m looking forward to contibuting to a team developing process
+- 📫 You can reach me with my email <Nedjat2021@gmail.com> or with telegram @sandsunlight
 
 <!---
 Ned-Magician/Ned-Magician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
