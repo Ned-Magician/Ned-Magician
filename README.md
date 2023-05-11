@@ -1,5 +1,5 @@
 
-<img src="E:/for%20win%208%20i%20put%20here/Mine/resume/profile%20pics/New%20folder/Saeid's%20Github%20Cover.png"
+<img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png"
      alt="Banner">
 
  Hi, I’m __Saeid__ 
