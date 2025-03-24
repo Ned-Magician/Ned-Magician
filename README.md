@@ -26,8 +26,8 @@
  
 - :seedling: I'm currenty lerning _React_.
 - Direct links to som projects that i have done:
-- 1. https://github.com/Ned-Magician/Insurance
-  2. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance)  
+  1. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance)
+  2. 
 - #### 🤝 Connect with me: <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png">:[Email](Nedjat2021@gmail.com)   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png">:_[Linkdin](https://www.linkedin.com/in/ned-magician/)_   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png">:_Telegram_ _@sandsunlight_
 
 <!---
