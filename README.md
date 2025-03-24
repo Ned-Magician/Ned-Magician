@@ -34,7 +34,7 @@
   6. [Project 6: Circle_Menu](https://github.com/Ned-Magician/Circle-menu)
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation)
   8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website)
-  9. [Project 9: 10-Project-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
+  9. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
 - #### 🤝 Connect with me: <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png">:[Email](Nedjat2021@gmail.com)   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png">:_[Linkdin](https://www.linkedin.com/in/ned-magician/)_   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png">:_Telegram_ _@sandsunlight_
 
 <!---
