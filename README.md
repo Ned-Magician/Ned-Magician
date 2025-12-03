@@ -23,8 +23,10 @@
 - :eyes: I’m interested in front-end and design and coding
 
 - :white_check_mark: **My Goal** is to create and design various pages and templates and great ideas for more than what is asked of me.
+- https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view?usp=drive_link
  
-- :seedling: I'm currenty lerning _React_.
+- :seedling: _React Redux Toolkit_.
+- 
 - ## 🚀 Direct links to My Projects:
   1. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance)
   2. [Project 2: SearchBar_JavaScript](https://github.com/Ned-Magician/SearchBar-JavaScript)
@@ -35,6 +37,7 @@
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation)
   8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website)
   9. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
+  10. React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks, custam navigation and Routing system.
 - #### 🤝 Connect with me: <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png">:[Email](Nedjat2021@gmail.com)   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png">:_[Linkdin](https://www.linkedin.com/in/ned-magician/)_   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png">:_Telegram_ _@sandsunlight_
 
 <!---
