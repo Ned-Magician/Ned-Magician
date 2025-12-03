@@ -25,7 +25,7 @@
 - :white_check_mark: **My Goal** is to create and design various pages and templates and great ideas for more than what is asked of me.
 - https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view?usp=drive_link
  
-- :seedling: _React Redux Toolkit_.
+- :seedling: _[React Redux Toolkit]([url](https://drive.google.com/drive/folders/1cK5fGps8XbVbsUdIYYjXmywWd9ToAUa0?usp=sharing))_.
 - 
 - ## 🚀 Direct links to My Projects:
   1. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance)
