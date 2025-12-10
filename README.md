@@ -38,7 +38,7 @@
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation)
   8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website)
   9. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
-  10. Project 10: A library that can create that book, edit and delete them in API. See Live On [Vercel](https://booksearch-vert.vercel.app/)
+  10. Project 10: A library that can create that book, edit and delete them in API with React Redux. See Live On [Vercel](https://booksearch-vert.vercel.app/)
   11. React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks, custam navigation and Routing system.[See live on Vercel 
 ](https://location-search-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=9rcCdVi1uckZAQH4gHZlCz03Vh6vS3L5
 )
