@@ -30,7 +30,7 @@
 - 
 - ## 🚀 Direct links to My Projects:
   1. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance).see live on [Vercel](https://insurance-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=tAMiowhpEKz8Ygxw5j9J3CtTCahOK1iT)
-  2. [Project 2: SearchBar_JavaScript](https://github.com/Ned-Magician/SearchBar-JavaScript)
+  2. [Project 2: SearchBar_JavaScript](https://github.com/Ned-Magician/SearchBar-JavaScript) See live on [Vercel ]([url](https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app))
   3. [Project 3: SearchBar_REACT](https://github.com/Ned-Magician/SearchBar-REACT).
   4. [Project 4: IT_Course](https://github.com/Ned-Magician/IT-course)
   5. [Project 5: Fitness](https://github.com/Ned-Magician/fitness)
