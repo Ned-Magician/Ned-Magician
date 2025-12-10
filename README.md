@@ -38,7 +38,8 @@
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation)
   8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website)
   9. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
-  10. React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks, custam navigation and Routing system.[See live on Vercel 
+  10. Project 10: A library that can create that book, edit and delete them in API. See Live On [Vercel](https://booksearch-vert.vercel.app/)
+  11. React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks, custam navigation and Routing system.[See live on Vercel 
 ](https://location-search-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=9rcCdVi1uckZAQH4gHZlCz03Vh6vS3L5
 )
 - #### 🤝 Connect with me: <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png">:[Email](Nedjat2021@gmail.com)   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png">:_[Linkdin](https://www.linkedin.com/in/ned-magician/)_   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png">:_Telegram_ _@sandsunlight_
