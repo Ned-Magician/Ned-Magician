@@ -33,7 +33,7 @@
   2. [Project 2: SearchBar_JavaScript](https://github.com/Ned-Magician/SearchBar-JavaScript) See live on [Vercel](https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app)
   3. [Project 3: SearchBar_REACT](https://github.com/Ned-Magician/SearchBar-REACT).
   4. [Project 4: IT_Course](https://github.com/Ned-Magician/IT-course)
-  5. [Project 5: Fitness](https://github.com/Ned-Magician/fitness)
+  5. [Project 5: Fitness + React + Vite](https://fitness-club-git-main-nejats-projects-2542b971.vercel.app/)
   6. [Project 6: Circle_Menu](https://github.com/Ned-Magician/Circle-menu)
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation)
   8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website)
