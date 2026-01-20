@@ -90,6 +90,6 @@ I enjoy turning designs into functional interfaces and continuously improving co
 
 📧 Email: **Nedjat2021@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/ned-magician/  
-✈️ Telegram: **@Sd_Nt_fog**
+✈️ Telegram ID: **@Sd_Nt_fog**
 
 ---
