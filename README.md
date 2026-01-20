@@ -80,8 +80,11 @@ I enjoy turning designs into functional interfaces and continuously improving co
 
 ---
 
-## 📄 Resume
-https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view
+📄 **Resume:**  
+[Resume](https://drive.google.com/file/d/1nEui_2lAOz8YqWDl-dl6pVMmNNWjYt6C/view?usp=sharing)
+
+📘 **React + Redux Toolkit**  
+[Diploma](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view?usp=sharing)://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view
 
 ---
 
