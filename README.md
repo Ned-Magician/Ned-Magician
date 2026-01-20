@@ -30,7 +30,6 @@ I enjoy turning designs into functional interfaces and continuously improving co
 
 **Tools**
 - Git & GitHub
-- Vercel (Deployment)
 - Figma (UI Design)
 - Gulp, SASS
 
