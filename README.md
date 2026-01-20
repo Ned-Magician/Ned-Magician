@@ -1,90 +1,94 @@
 <img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png" alt="Banner">
 
-## Hi, I’m **Saeid**
-*[@Ned-Magician](https://github.com/Ned-Magician)*
+## 👋 Hi, I’m **Saeid**
+**Front-End Developer | React | UI-Focused**
+
+📍 Open to remote opportunities  
+🔗 GitHub: https://github.com/Ned-Magician  
 
 ---
 
-### 💼 Technical Skills
+## 💼 Professional Summary
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Front-End Developer with strong experience in **HTML, CSS, JavaScript, and React**.  
+I specialize in building **responsive**, **user-friendly**, and **clean UI applications**, with a focus on performance and real-world usability.
+
+I enjoy turning designs into functional interfaces and continuously improving code quality and user experience.
 
 ---
 
-### 👀 Interests
-- Front-end development
-- UI / UX design
-- Clean, responsive layouts
+## 🛠️ Technical Skills
+
+**Core**
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design, Mobile-First UI
+
+**Frameworks & Libraries**
+- React, Redux Toolkit
+- Bootstrap, Tailwind CSS
+- jQuery (legacy & plugins)
+
+**Tools**
+- Git & GitHub
+- Vercel (Deployment)
+- Figma (UI Design)
+- Gulp, SASS
 
 ---
 
-### 🎯 Goal
-Create and design high-quality pages, templates, and creative solutions beyond basic requirements.
+## 📌 Selected Projects (Live Demos)
 
-📄 **Resume:**  
-[Resume](https://drive.google.com/file/d/1nEui_2lAOz8YqWDl-dl6pVMmNNWjYt6C/view?usp=sharing)
+1. **Insurance Website (React)**
+   - Modern UI with responsive layout
+   - Deployed on Vercel  
+   🔗 Repo: https://github.com/Ned-Magician/Insurance  
+   🔗 Demo: https://insurance-git-main-nejats-projects-2542b971.vercel.app
 
-📘 **React + Redux Toolkit**  
- [Diploma](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view?usp=sharing)
+2. **Search Bar – React + API**
+   - API integration
+   - State management with React  
+   🔗 Repo: https://github.com/Ned-Magician/SearchBar-REACT  
+   🔗 Demo: https://search-bar-react-two.vercel.app
 
+3. **Search Bar – JavaScript**
+   - Vanilla JS implementation
+   - Clean DOM manipulation  
+   🔗 Repo: https://github.com/Ned-Magician/SearchBar-JavaScript  
+   🔗 Demo: https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app
 
----
+4. **Ecommerce Website**
+   - Fully responsive multi-section layout
+   - HTML, CSS, JavaScript  
+   🔗 Repo: https://github.com/Ned-Magician/Ecommerce-website  
+   🔗 Demo: https://ecommerce-website-ebon-seven.vercel.app
 
-## 🚀 Direct Links to My Projects
+5. **Fitness Club App (React + Vite)**
+   - Modern React architecture
+   - Component-based UI  
+   🔗 Repo: https://github.com/Ned-Magician/fitness-club  
+   🔗 Demo: https://fitness-club-git-main-nejats-projects-2542b971.vercel.app
 
-1. **Insurance**  
-   Repo: https://github.com/Ned-Magician/Insurance  
-   Demo: https://insurance-git-main-nejats-projects-2542b971.vercel.app
-
-2. **SearchBar – JavaScript**  
-   Repo: https://github.com/Ned-Magician/SearchBar-JavaScript  
-   Demo: https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app
-
-3. **SearchBar – React**  
-   Repo: https://github.com/Ned-Magician/SearchBar-REACT  
-   Demo: https://search-bar-react-two.vercel.app
-
-4. **IT Course Website**  
-   Repo: https://github.com/Ned-Magician/IT-course  
-   Demo: https://it-course-iota.vercel.app
-
-5. **Fitness Club (React + Vite)**  
-   Repo: https://github.com/Ned-Magician/fitness-club  
-   Demo: https://fitness-club-git-main-nejats-projects-2542b971.vercel.app
-
-6. **Cute Truck Animation (Pure HTML)**  
-   Repo: https://github.com/Ned-Magician/cute-truk-animation  
-   Demo: https://cute-truk-animation.vercel.app
-
-7. **Ecommerce Website**  
-   Repo: https://github.com/Ned-Magician/Ecommerce-website  
-   Demo: https://ecommerce-website-ebon-seven.vercel.app
-
-8. **Book Search (React + Redux + CRUD)**  
-   Repo: https://github.com/Ned-Magician/booksearch  
-   Demo: https://booksearch-vert.vercel.app
-
-9. **Location Search App (React, Redux, Router, Tailwind)**  
-   Repo: https://github.com/Ned-Magician/location-search  
-   Demo: https://location-search-git-main-nejats-projects-2542b971.vercel.app
-
-10. **10 Projects – Pure HTML & CSS**  
-    Repo: https://github.com/Ned-Magician/10-Project-pure-CSS-HTML
-
-11. **Circle Menu**  
-    Repo: https://github.com/Ned-Magician/Circle-menu
+👉 **More projects:** https://github.com/Ned-Magician?tab=repositories
 
 ---
 
-## 🤝 Contact Me
+## 🎯 What I’m Looking For
 
-📧 **Email:** Nedjat2021@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/ned-magician/  
-✈️ **Telegram:** @Sd_Nt_fog
+- Front-End Developer / Junior–Mid Level
+- React-focused roles
+- Teams that value clean UI, good UX, and learning
+
+---
+
+## 📄 Resume
+https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view
+
+---
+
+## 📬 Contact
+
+📧 Email: **Nedjat2021@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/ned-magician/  
+✈️ Telegram: **@Sd_Nt_fog**
+
+---
