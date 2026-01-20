@@ -29,11 +29,11 @@
 Create and design high-quality pages, templates, and creative solutions beyond basic requirements.
 
 📄 **Resume:**  
-https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view
+[Resume](https://drive.google.com/file/d/1nEui_2lAOz8YqWDl-dl6pVMmNNWjYt6C/view?usp=sharing)
 
-📘 **Learning:**  
-React + Redux Toolkit  
-https://drive.google.com/drive/folders/1cK5fGps8XbVbsUdIYYjXmywWd9ToAUa0
+📘 **React + Redux Toolkit**  
+ [Diploma](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view?usp=sharing)
+
 
 ---
 
