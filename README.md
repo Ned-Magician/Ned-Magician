@@ -34,13 +34,13 @@
   3. [Project 3: SearchBar_REACT](https://github.com/Ned-Magician/SearchBar-REACT). Live Demo [Vercel](https://search-bar-react-two.vercel.app/)
   4. [Project 4: IT_Course](https://github.com/Ned-Magician/IT-course) Live Demo [Vercel](https://it-course-iota.vercel.app/)
   5. [Project 5: Fitness + React + Vite](https://github.com/Ned-Magician/fitness-club) Live Demo [Vercel](https://fitness-club-git-main-nejats-projects-2542b971.vercel.app/)
-  6. [Project 6: Circle_Menu](https://github.com/Ned-Magician/Circle-menu)
+  6. 
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation) Live Demo [Vercel](https://cute-truk-animation.vercel.app/)
   8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website). Live Demo [Vercel](https://ecommerce-website-ebon-seven.vercel.app/)
-  9. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
-  10. [Single-page React application using Redux for state management and REST API CRUD operations](https://github.com/Ned-Magician/booksearch.git). Live Demo [Vercel](https://booksearch-vert.vercel.app/)
-  11. [A modern React application built with Redux, React Router, Tailwind CSS, Context API, and Hooks. Features a custom navigation and routing system with a clean, responsive UI.](https://github.com/Ned-Magician/location-search.git). Live Demo [Vercel](https://location-search-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=9rcCdVi1uckZAQH4gHZlCz03Vh6vS3L5)
-
+  9. [Single-page React application using Redux for state management and REST API CRUD operations](https://github.com/Ned-Magician/booksearch.git). Live Demo [Vercel](https://booksearch-vert.vercel.app/)
+  10. [A modern React application built with Redux, React Router, Tailwind CSS, Context API, and Hooks. Features a custom navigation and routing system with a clean, responsive UI.](https://github.com/Ned-Magician/location-search.git). Live Demo [Vercel](https://location-search-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=9rcCdVi1uckZAQH4gHZlCz03Vh6vS3L5)
+  11. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
+  12. [Project 6: Circle_Menu](https://github.com/Ned-Magician/Circle-menu)
 - #### 🤝 Contact with me: 
 <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png"> [Email](Nedjat2021@gmail.com)  
 OR  
