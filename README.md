@@ -1,55 +1,90 @@
+<img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png" alt="Banner">
 
+## Hi, I’m **Saeid**
+*[@Ned-Magician](https://github.com/Ned-Magician)*
 
-<img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png"
-     alt="Banner">
-
- Hi, I’m __Saeid__ 
-*([@Ned-Magician](https://github.com/Ned-Magician))* 
 ---
 
-- :briefcase: __Technical skills__ 
+### 💼 Technical Skills
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-![JavaScript](https://user-images.githubusercontent.com/94977052/200597250-86bda7cd-4e6a-4e63-9249-4cb6a1ea79af.JPG)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-- :eyes: I’m interested in front-end and design and coding
+### 👀 Interests
+- Front-end development
+- UI / UX design
+- Clean, responsive layouts
 
-- :white_check_mark: **My Goal** is to create and design various pages and templates and great ideas for more than what is asked of me.
-- https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view?usp=drive_link
- 
-- :seedling: _[React Redux Toolkit]([url](https://drive.google.com/drive/folders/1cK5fGps8XbVbsUdIYYjXmywWd9ToAUa0?usp=sharing))_.
-- 
-- ## 🚀 Direct links to My Projects:
-  1. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance). Live Demo [Vercel](https://insurance-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=tAMiowhpEKz8Ygxw5j9J3CtTCahOK1iT)
-  2. [Project 2: SearchBar_JavaScript](https://github.com/Ned-Magician/SearchBar-JavaScript) Live Demo [Vercel](https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app)
-  3. [Project 3: SearchBar_REACT](https://github.com/Ned-Magician/SearchBar-REACT). Live Demo [Vercel](https://search-bar-react-two.vercel.app/)
-  4. [Project 4: IT_Course](https://github.com/Ned-Magician/IT-course) Live Demo [Vercel](https://it-course-iota.vercel.app/)
-  5. [Project 5: Fitness + React + Vite](https://github.com/Ned-Magician/fitness-club) Live Demo [Vercel](https://fitness-club-git-main-nejats-projects-2542b971.vercel.app/)
-  6. 
-  7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation) Live Demo [Vercel](https://cute-truk-animation.vercel.app/)
-  8. [Project 8: Ecommerce-website](https://github.com/Ned-Magician/Ecommerce-website). Live Demo [Vercel](https://ecommerce-website-ebon-seven.vercel.app/)
-  9. [Single-page React application using Redux for state management and REST API CRUD operations](https://github.com/Ned-Magician/booksearch.git). Live Demo [Vercel](https://booksearch-vert.vercel.app/)
-  10. [A modern React application built with Redux, React Router, Tailwind CSS, Context API, and Hooks. Features a custom navigation and routing system with a clean, responsive UI.](https://github.com/Ned-Magician/location-search.git). Live Demo [Vercel](https://location-search-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=9rcCdVi1uckZAQH4gHZlCz03Vh6vS3L5)
-  11. [Project 9: 10-Projects-pure-CSS-HTML](https://github.com/Ned-Magician/10-Project-pure-CSS-HTML)
-  12. [Project 6: Circle_Menu](https://github.com/Ned-Magician/Circle-menu)
-- #### 🤝 Contact with me: 
-<img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png"> [Email](Nedjat2021@gmail.com)  
-OR  
-<img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png"> _[Linkdin](https://www.linkedin.com/in/ned-magician/)_  
-OR  
-<img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png"> _Telegram id:_  _@Sd_Nt_fog_
+---
 
-<!---
-Ned-Magician/Ned-Magician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎯 Goal
+Create and design high-quality pages, templates, and creative solutions beyond basic requirements.
 
+📄 **Resume:**  
+https://drive.google.com/file/d/1lNIh1-ZQnvB64huxj1CH6VJApsgtP5gk/view
+
+📘 **Learning:**  
+React + Redux Toolkit  
+https://drive.google.com/drive/folders/1cK5fGps8XbVbsUdIYYjXmywWd9ToAUa0
+
+---
+
+## 🚀 Direct Links to My Projects
+
+1. **Insurance**  
+   Repo: https://github.com/Ned-Magician/Insurance  
+   Demo: https://insurance-git-main-nejats-projects-2542b971.vercel.app
+
+2. **SearchBar – JavaScript**  
+   Repo: https://github.com/Ned-Magician/SearchBar-JavaScript  
+   Demo: https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app
+
+3. **SearchBar – React**  
+   Repo: https://github.com/Ned-Magician/SearchBar-REACT  
+   Demo: https://search-bar-react-two.vercel.app
+
+4. **IT Course Website**  
+   Repo: https://github.com/Ned-Magician/IT-course  
+   Demo: https://it-course-iota.vercel.app
+
+5. **Fitness Club (React + Vite)**  
+   Repo: https://github.com/Ned-Magician/fitness-club  
+   Demo: https://fitness-club-git-main-nejats-projects-2542b971.vercel.app
+
+6. **Cute Truck Animation (Pure HTML)**  
+   Repo: https://github.com/Ned-Magician/cute-truk-animation  
+   Demo: https://cute-truk-animation.vercel.app
+
+7. **Ecommerce Website**  
+   Repo: https://github.com/Ned-Magician/Ecommerce-website  
+   Demo: https://ecommerce-website-ebon-seven.vercel.app
+
+8. **Book Search (React + Redux + CRUD)**  
+   Repo: https://github.com/Ned-Magician/booksearch  
+   Demo: https://booksearch-vert.vercel.app
+
+9. **Location Search App (React, Redux, Router, Tailwind)**  
+   Repo: https://github.com/Ned-Magician/location-search  
+   Demo: https://location-search-git-main-nejats-projects-2542b971.vercel.app
+
+10. **10 Projects – Pure HTML & CSS**  
+    Repo: https://github.com/Ned-Magician/10-Project-pure-CSS-HTML
+
+11. **Circle Menu**  
+    Repo: https://github.com/Ned-Magician/Circle-menu
+
+---
+
+## 🤝 Contact Me
+
+📧 **Email:** Nedjat2021@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/ned-magician/  
+✈️ **Telegram:** @Sd_Nt_fog
