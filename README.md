@@ -32,7 +32,7 @@
   1. [Project 1: Insurance](https://github.com/Ned-Magician/Insurance). Live Demo [Vercel](https://insurance-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=tAMiowhpEKz8Ygxw5j9J3CtTCahOK1iT)
   2. [Project 2: SearchBar_JavaScript](https://github.com/Ned-Magician/SearchBar-JavaScript) Live Demo [Vercel](https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app)
   3. [Project 3: SearchBar_REACT](https://github.com/Ned-Magician/SearchBar-REACT). Live Demo [Vercel](https://search-bar-react-two.vercel.app/)
-  4. [Project 4: IT_Course](https://github.com/Ned-Magician/IT-course)
+  4. [Project 4: IT_Course](https://github.com/Ned-Magician/IT-course) Live Demo [Vercel](https://it-course-iota.vercel.app/)
   5. [Project 5: Fitness + React + Vite](https://github.com/Ned-Magician/fitness-club) Live Demo [Vercel](https://fitness-club-git-main-nejats-projects-2542b971.vercel.app/)
   6. [Project 6: Circle_Menu](https://github.com/Ned-Magician/Circle-menu)
   7. [Project 7: Cute truk animation_ Pure HTML](https://github.com/Ned-Magician/cute-truk-animation) Live Demo [Vercel](https://cute-truk-animation.vercel.app/)
