@@ -41,7 +41,7 @@
   10. [Single-page React application using Redux for state management and REST API CRUD operations](https://github.com/Ned-Magician/booksearch.git). Live Demo [Vercel](https://booksearch-vert.vercel.app/)
   11. [A modern React application built with Redux, React Router, Tailwind CSS, Context API, and Hooks. Features a custom navigation and routing system with a clean, responsive UI.](https://github.com/Ned-Magician/location-search.git). Live Demo [Vercel](https://location-search-git-main-nejats-projects-2542b971.vercel.app?_vercel_share=9rcCdVi1uckZAQH4gHZlCz03Vh6vS3L5)
 
-- #### 🤝 Contact with me: <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png">:[Email](Nedjat2021@gmail.com)   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png">:_[Linkdin](https://www.linkedin.com/in/ned-magician/)_   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png">:_Telegram_ _@sandsunlight_
+- #### 🤝 Contact with me: <img width="24" src="https://user-images.githubusercontent.com/94977052/200575233-0a08c1a1-bd06-45f0-9a76-0af3acad01d0.png">:[Email](Nedjat2021@gmail.com)   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200572195-29d0d60f-d286-42c7-bd6f-6ae321bdf354.png">:_[Linkdin](https://www.linkedin.com/in/ned-magician/)_   OR  <img width="24" src="https://user-images.githubusercontent.com/94977052/200577800-f8ff209a-d8d3-48e0-983f-166388a69f31.png">:_Telegram_ _@Sd_Nt_fog_
 
 <!---
 Ned-Magician/Ned-Magician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
