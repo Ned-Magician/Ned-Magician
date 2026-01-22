@@ -29,7 +29,7 @@ My main focus is modern frontend development using **React**, **Redux**, and sol
 
 ## 📌 Selected Projects (Live Demos)
 
-### 1. Insurance Website (React)
+### 1. IInsurance Landing Page — HTML, CSS, JavaScript
 - Modern, responsive UI
 - Component-based React structure
 - Deployed on Vercel  
