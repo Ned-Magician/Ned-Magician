@@ -2,10 +2,10 @@
 
 ## Hi, I’m Saeid 👋  
 **Junior Frontend Developer** | React • Redux • JavaScript • HTML • CSS  
-📍 Remote | Open to Junior / Entry-Level Roles
+📍 Remote | Junior Frontend Developer | Actively Open to Work
 
 I build clean, responsive, and user-focused web interfaces.  
-My main focus is modern frontend development using **React**, **Redux**, and solid **UI/UX fundamentals**.
+I focus on React-based applications while maintaining strong HTML/CSS fundamentals, and solid **UI/UX fundamentals**.
 
 ---
 
