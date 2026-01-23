@@ -96,7 +96,7 @@ I focus on **React-based applications**, while maintaining strong **HTML/CSS** a
 ## 📄 Documents
 
 📄 **Resume**  
-https://drive.google.com/file/d/1nEui_2lAOz8YqWDl-dl6pVMmNNWjYt6C/view
+https://drive.google.com/file/d/1yCrTXbt1mGvWfBeRE7QYRWOmgaOeWrzO/view?usp=drive_link
 
 📘 **React + Redux Toolkit Certificate**  
 https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view
