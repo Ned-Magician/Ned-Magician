@@ -88,4 +88,4 @@ https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view
 
 📧 Email: **Nedjat2021@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/ned-magician/  
-✈️ Telegram: **@Sd_Nt_fog**
+💬 Telegram: **@Sd_Nt_fog**
