@@ -5,7 +5,7 @@
 📍 Remote | Junior Frontend Developer | Actively Open to Work
 
 I build clean, responsive, and user-focused web interfaces.  
-I focus on React-based applications while maintaining strong HTML/CSS fundamentals, and solid **UI/UX fundamentals**.
+I focus on **React-based applications**, while maintaining strong **HTML/CSS** and **UI/UX fundamentals**.
 
 ---
 
@@ -29,28 +29,30 @@ I focus on React-based applications while maintaining strong HTML/CSS fundamenta
 
 ## 📌 Selected Projects (Live Demos)
 
-### 1. IInsurance Landing Page — HTML, CSS, JavaScript
-- Modern, responsive UI
-- Component-based React structure
+### 1. Insurance Landing Page — HTML, CSS, JavaScript
+- Large multi-section responsive landing page
+- Focus on layout structure, UX, and styling
 - Deployed on Vercel  
 🔗 Repo: https://github.com/Ned-Magician/Insurance  
 🔗 Demo: https://insurance-git-main-nejats-projects-2542b971.vercel.app
 
 ### 2. Search Bar — React + API
-- API integration (search & dynamic rendering)
-- State handled with React  
+- API-based search application
+- State handled with React
+- Demonstrates component-based architecture  
 🔗 Repo: https://github.com/Ned-Magician/SearchBar-REACT  
 🔗 Demo: https://search-bar-react-two.vercel.app
 
 ### 3. Search Bar — Vanilla JavaScript
 - Pure JavaScript implementation
-- Clean DOM manipulation  
+- Fetch API + DOM manipulation
+- JavaScript version of the React project  
 🔗 Repo: https://github.com/Ned-Magician/SearchBar-JavaScript  
-🔗 Demo: https://search-bar-java-script-git-main-nejats-projects-2542b971.vercel.app
+🔗 Demo: https://search-bar-java-script.vercel.app/
 
 ### 4. Ecommerce Website
-- Fully responsive multi-section layout
-- Built with HTML, CSS, JavaScript  
+- Fully responsive multi-section website
+- Built with HTML, CSS, and JavaScript  
 🔗 Repo: https://github.com/Ned-Magician/Ecommerce-website  
 🔗 Demo: https://ecommerce-website-ebon-seven.vercel.app
 
