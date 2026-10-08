@@ -18,7 +18,7 @@ I'm interested in **remote frontend development** opportunities.
 
 ## Résumé
 
-[Current Frontend Developer Résumé (October 2026)](./RESUME.md)
+**[View / Download Current Résumé (PDF)](./Saeid_Nejat.pdf)**
 
 ## Featured Public Projects
 
