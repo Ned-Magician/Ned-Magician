@@ -1,110 +1,52 @@
-<img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png" alt="Banner">
+<img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png" alt="GitHub profile banner">
 
-## Hi, I’m Saeid 👋  
-**Junior Frontend Developer** | React • Redux • JavaScript • HTML • CSS  
-📍 Remote | Junior Frontend Developer | Actively Open to Work
+# Hi, I'm Saeid Nejat 👋
 
-I build clean, responsive, and user-focused web interfaces.  
-I focus on **React-based applications**, while maintaining strong **HTML/CSS** and **UI/UX fundamentals**.
+**Frontend Developer | React · Next.js · TypeScript · JavaScript**
 
----
+I build responsive websites and interactive frontend applications. My work includes a paid corporate website project and independent portfolio apps. The public portfolio repositories below are available for code review and are separate from any private client source code.
 
-## 🛠️ Technical Skills
+I'm interested in **remote frontend development** opportunities.
 
-**Core**
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive & Mobile-First Design
+## Technical Skills
 
-**Frameworks & Libraries**
-- React, Redux Toolkit
-- Bootstrap, Tailwind CSS
-- jQuery (legacy & plugins)
+- **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frontend:** React, Next.js, Tailwind CSS, SASS/SCSS, responsive UI
+- **Working with data:** REST APIs, Fetch API, Axios
+- **Tools:** Git, GitHub, Vite, Vercel, Figma
+- **Additional study:** Redux Toolkit
 
-**Tools**
-- Git & GitHub
-- Figma (UI Design)
-- SASS, Gulp
+## Featured Public Projects
 
----
+### 1. Arsin Corporate Website — Next.js, React, TypeScript, Tailwind CSS
 
-## 📌 Selected Projects (Live Demos)
+A responsive, six-route corporate website showcase with shared typed data, reusable components, mobile navigation, semantic HTML, and keyboard-visible focus states.
 
-### 1. Location Search App — React + TypeScript + Maps API
-- Built with React, TypeScript, and Vite
-- Routing and API-driven data flow  
-🔗 Repo: https://github.com/Ned-Magician/location-search  
-🔗 Demo: https://location-search-seven.vercel.app 
+**[Live Demo](https://arsin-corporate-portfolio.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/arsin-corporate-portfolio)**
 
-### 2. Book Search App — React CRUD + REST API
-- Full CRUD application (Create, Read, Update, Delete)
-- Component-based architecture using React
-- API-driven data handling  
-🔗 Repo: https://github.com/Ned-Magician/booksearch  
-🔗 Demo: https://booksearch-vert.vercel.app
+### 2. Location Search — React, TypeScript, Leaflet, Nominatim
 
-### 3. Search Bar — React + API
-- API-based search application
-- State handled with React
-- Demonstrates component-based architecture  
-🔗 Repo: https://github.com/Ned-Magician/SearchBar-REACT  
-🔗 Demo: https://search-bar-react-two.vercel.app
+An interactive map application that fetches location results and lets users move the map to a selected location.
 
-### 4. Fitness Club App (React + Vite)
-- Modern React setup with Vite
-- Component-based UI architecture  
-🔗 Repo: https://github.com/Ned-Magician/fitness-club  
-🔗 Demo: https://fitness-club-rouge-five.vercel.app
+**[Live Demo](https://location-search-seven.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/location-search)**
 
-### 5. Insurance Landing Page — HTML, CSS, JavaScript
-- Large multi-section responsive landing page
-- Focus on layout structure, UX, and styling
-- Deployed on Vercel  
-🔗 Repo: https://github.com/Ned-Magician/Insurance  
-🔗 Demo: https://insurance-ecru.vercel.app
+### 3. Fitness Club — React, Vite, CSS
 
-### 6. Ecommerce Website
-- Fully responsive multi-section website
-- Built with HTML, CSS, and JavaScript  
-🔗 Repo: https://github.com/Ned-Magician/Ecommerce-website  
-🔗 Demo: https://ecommerce-website-ebon-seven.vercel.app
+A responsive website with reusable React sections for a fitness club.
 
-### 7. IT Course Landing Page — Gulp, SASS, HTML, JavaScript
-- Fully responsive landing page built with a modular SASS architecture
-- Automated build process using Gulp  
-🔗 Repo: https://github.com/Ned-Magician/IT-course  
-🔗 Demo: https://it-course-iota.vercel.app
+**[Live Demo](https://fitness-club-rouge-five.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/fitness-club)**
 
-### 8. Search Bar — Vanilla JavaScript
-- Pure JavaScript implementation
-- Fetch API + DOM manipulation
-- Vanilla JavaScript implementation of the same search functionality  
-🔗 Repo: https://github.com/Ned-Magician/SearchBar-JavaScript  
-🔗 Demo: https://search-bar-java-script.vercel.app/
+### Other Learning Projects
 
-👉 **More projects:** https://github.com/Ned-Magician?tab=repositories
+- [Reading List — React local-state CRUD](https://github.com/Ned-Magician/booksearch)
+- [IT Course — HTML, SCSS, Bootstrap, JavaScript, Gulp](https://github.com/Ned-Magician/IT-course)
+- [All public repositories](https://github.com/Ned-Magician?tab=repositories)
 
----
+## Training
 
-## 🎯 What I’m Looking For
+- Modern React with Redux — Udemy ([certificate](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view))
 
-- Junior Frontend Developer roles
-- React-focused positions
-- Teams that value clean UI, good UX, and continuous learning
+## Contact
 
----
-
-## 📄 Documents
-
-📄 **Resume**  
-https://drive.google.com/file/d/1yCrTXbt1mGvWfBeRE7QYRWOmgaOeWrzO/view?usp=drive_link
-
-📘 **React + Redux Toolkit Certificate**  
-https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view
-
----
-
-## 📬 Contact
-
-📧 Email: **Nedjat2021@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/ned-magician/  
-💬 Telegram: **@Sd_Nt_fog**
+- **Email:** nedjat2021@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ned-magician/
