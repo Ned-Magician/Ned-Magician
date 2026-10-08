@@ -16,6 +16,10 @@ I'm interested in **remote frontend development** opportunities.
 - **Tools:** Git, GitHub, Vite, Vercel, Figma
 - **Additional study:** Redux Toolkit
 
+## Résumé
+
+[Current Frontend Developer Résumé (October 2026)](./RESUME.md)
+
 ## Featured Public Projects
 
 ### 1. Arsin Corporate Website — Next.js, React, TypeScript, Tailwind CSS
