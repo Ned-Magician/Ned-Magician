@@ -1,50 +1,63 @@
-<img src="https://github.com/Ned-Magician/Ned-Magician/blob/main/Saeid's%20Github%20Cover.png" alt="GitHub profile banner">
+<p align="center">
+  <img src="Saeid's%20Github%20Cover.png" alt="Saeid Nejat — GitHub portfolio banner" width="100%" />
+</p>
 
-# Hi, I'm Saeid Nejat 👋
+# Saeid Nejat
 
-**Frontend Developer | React · Next.js · TypeScript · JavaScript**
+**Frontend Developer | React · TypeScript · Next.js · JavaScript**
 
-I build responsive websites and interactive frontend applications. My work includes a paid corporate website project and independent portfolio apps. The public portfolio repositories below are available for code review and are separate from any private client source code.
+I build responsive business websites and interactive frontend applications. My experience combines independent, project-based development with **one paid corporate website engagement in 2026**.
 
-I'm interested in **junior frontend development** and **entry-level technical/application support** opportunities with English-speaking teams. I'm based in Ukraine and open to remote roles that accept applicants working from Ukraine.
+Based in **Ukraine** · Open to remote opportunities with **English-speaking teams** · Also interested in **junior technical/application support** roles where web troubleshooting skills are useful.
 
-## Technical Skills
+## Selected work
 
-- **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frontend:** React, Next.js, Tailwind CSS, SASS/SCSS, responsive UI
-- **Working with data:** REST APIs, Fetch API, Axios
-- **Tools:** Git, GitHub, Vite, Vercel, Figma
-- **Additional study:** Redux Toolkit
+### 01 — Arsin | Corporate Website Showcase
 
-## Résumé
+**Next.js 16 · React · TypeScript · Tailwind CSS**
 
-**[View / Download Current Résumé (PDF)](./Saeid_Nejat.pdf)**
+A six-page, responsive corporate website for an MDF lamination business, including reusable UI components, mobile navigation, a project gallery, FAQ, and accessible contact options.
 
-## Featured Public Projects
+This is a **public portfolio showcase** connected to my Arsin client work, **not the client's private production code**.
 
-### 1. Arsin Corporate Website — Next.js, React, TypeScript, Tailwind CSS
+[**View live website**](https://arsin-corporate-portfolio.vercel.app/) · [**Explore code**](https://github.com/Ned-Magician/arsin-corporate-portfolio)
 
-A responsive, six-route corporate website showcase with shared typed data, reusable components, mobile navigation, semantic HTML, and keyboard-visible focus states.
+<a href="https://arsin-corporate-portfolio.vercel.app/">
+  <img src="https://raw.githubusercontent.com/Ned-Magician/arsin-corporate-portfolio/main/public/screenshots/home-desktop.png" alt="Arsin corporate website homepage" width="650" />
+</a>
 
-**[Live Demo](https://arsin-corporate-portfolio.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/arsin-corporate-portfolio)**
+### 02 — Location Search | Interactive Map
 
-### 2. Location Search — React, TypeScript, Leaflet, Nominatim
+**React · TypeScript · Leaflet · OpenStreetMap / Nominatim**
 
-An interactive map application that fetches location results and lets users move the map to a selected location.
+Search locations through a real geocoding API, see matching places, and select a result to move an interactive map and display a marker. Includes loading/error feedback and a responsive search-and-map layout.
 
-**[Live Demo](https://location-search-seven.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/location-search)**
+[**Try the map**](https://location-search-seven.vercel.app/) · [**Explore code**](https://github.com/Ned-Magician/location-search)
 
-### 3. Fitness Club — React, Vite, CSS
+### 03 — Fitness Club | Responsive Website
 
-A responsive website with reusable React sections for a fitness club.
+**React · Vite · CSS**
 
-**[Live Demo](https://fitness-club-rouge-five.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/fitness-club)**
+A fitness-business website concept built from reusable React sections, with responsive navigation, trainer cards, and image galleries.
 
-## Training
+[**View live website**](https://fitness-club-rouge-five.vercel.app/) · [**Explore code**](https://github.com/Ned-Magician/fitness-club)
 
-- Modern React with Redux — Udemy ([certificate](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view))
+## Skills & tools
 
-## Contact
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3 |
+| Styling | Responsive CSS, Tailwind CSS, Sass/SCSS |
+| APIs and UI | REST/JSON, Fetch API, Axios, React state, Leaflet |
+| Workflow | Git, GitHub, Vite, Vercel |
 
-- **Email:** nedjat2021@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ned-magician/
+I have also studied **Redux Toolkit** and used **Figma** in my learning and project workflow.
+
+## Résumé & contact
+
+- **[Frontend résumé (PDF)](./Saeid_Nejat.pdf)**
+- **[LinkedIn](https://www.linkedin.com/in/ned-magician/)**
+- **[Email](mailto:nedjat2021@gmail.com)**
+- **[Modern React with Redux — Udemy certificate](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view)**
+
+*Open to suitable junior frontend and entry-level technical/application support positions that allow remote work from Ukraine.*
