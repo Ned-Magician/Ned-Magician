@@ -6,7 +6,7 @@
 
 I build responsive websites and interactive frontend applications. My work includes a paid corporate website project and independent portfolio apps. The public portfolio repositories below are available for code review and are separate from any private client source code.
 
-I'm interested in **remote frontend development** opportunities.
+I'm interested in **junior frontend development** and **entry-level technical/application support** opportunities with English-speaking teams. I'm based in Ukraine and open to remote roles that accept applicants working from Ukraine.
 
 ## Technical Skills
 
