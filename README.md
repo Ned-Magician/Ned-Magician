@@ -40,12 +40,6 @@ A responsive website with reusable React sections for a fitness club.
 
 **[Live Demo](https://fitness-club-rouge-five.vercel.app/)** · **[GitHub](https://github.com/Ned-Magician/fitness-club)**
 
-### Other Learning Projects
-
-- [Reading List — React local-state CRUD](https://github.com/Ned-Magician/booksearch)
-- [IT Course — HTML, SCSS, Bootstrap, JavaScript, Gulp](https://github.com/Ned-Magician/IT-course)
-- [All public repositories](https://github.com/Ned-Magician?tab=repositories)
-
 ## Training
 
 - Modern React with Redux — Udemy ([certificate](https://drive.google.com/file/d/1YjT3bM1k74F5p43pncEMZRLxwaQrKRc4/view))
